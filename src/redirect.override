@@ -1,0 +1,24 @@
+mitm: []
+rewrite:
+- ^http://(www.)?(g|google)\.cn https://www.google.com 302
+- ^http://(ditu|maps)\.google\.cn https://maps.google.com 302
+# JD
+- ^http://coupon\.m\.jd\.com/ https://coupon.m.jd.com/ 302
+- ^http://(www.)?jd\.com/ https://www.jd.com/ 302
+- ^http://h5\.m\.jd\.com/ https://h5.m.jd.com/ 302
+- ^http://item\.m\.jd\.com/ https://item.m.jd.com/ 302
+- ^http://m\.jd\.com https://m.jd.com 302
+- ^http://newcz\.m\.jd\.com/ https://newcz.m.jd.com/ 302
+- ^http://p\.m\.jd\.com/ https://p.m.jd.com/ 302
+- ^http://so\.m\.jd\.com/ https://so.m.jd.com/ 302
+- ^http://m\.taobao\.com/ https://m.taobao.com/ 302
+- ^http://(www.)?taobao\.com/ https://taobao.com/ 302
+- ^http://(www.)?aicoin\.cn/ https://www.aicoin.com/ 302
+- ^http://(www.)?mi\.com/ https://www.mi.com/ 302
+- ^http://(www.)?suning\.com/ https://suning.com/ 302
+- ^http://(www.)?yhd\.com/ https://yhd.com/ 302
+- ^http://you\.163\.com/ https://you.163.com/ 302
+- ^http://wnacg\.org/ https://wnacg.org/ 302
+- ^http://e-hentai.org/ https://e-hentai.org/ 302
+- ^http://exhentai.org/ https://exhentai.org/ 302
+force-http-engine: []
