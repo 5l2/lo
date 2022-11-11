@@ -1,0 +1,5 @@
+payload:
+  - '.steampowered.com'
+  - '.steamstatic.com'
+  - '.steamserver.net'
+  - '.steamcontent.com'
