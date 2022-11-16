@@ -9,3 +9,10 @@ bilibili.tv
 .acgvideo.com
 .bilibili.com
 .bilibili.tv
+bili-dyn-sched.jcloud-cdn.com
+.w.bilicdn1.com
+biliv4.c.cdnhwc1.com
+hcdnw.bili.c.cdnhwc2.com
+hcdnw.bili.c.cdnhwc2.com
+k1-ipv6.gslb.ksyuncdn.com
+activity.hdslb.com.w.kunlungr.com
