@@ -2,3 +2,4 @@ apple.com
 .apple.com
 .myqnapcloud.com
 .shanling.com
+.threatbook.com
